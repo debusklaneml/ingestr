@@ -8,7 +8,7 @@ Authors@R:
            email = "EMAIL",
            comment = c(ORCID = "ADD ONE OR DELETE COMMENT"))
 Description: IN DEPTH DESCRIPTION WITH LINK TO ORIGINAL DATA
-License: file LICENSE
+License: MIT + file LICENSE
 URL: LINK TO PKGDOWN OR GITHUB REPO
 BugReports: LINK TO REPO ISSUES
 Depends:
