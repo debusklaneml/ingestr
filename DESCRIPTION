@@ -1,13 +1,13 @@
-Package: YOUR_PACKAGE_NAME
-Title: WHAT DATA YOU ARE PULLING
+Package: ingestR
+Title: Import various types of data into both objects and lists. 
 Version: 0.1.0
 Authors@R: 
-    person(given = "FIRST NAME",
-           family = "LAST NAME",
+    person(given = "Morgan",
+           family = "DeBusk-Lane",
            role = c("aut", "cre"),
-           email = "EMAIL",
-           comment = c(ORCID = "ADD ONE OR DELETE COMMENT"))
-Description: IN DEPTH DESCRIPTION WITH LINK TO ORIGINAL DATA
+           email = "mldebusklane@gmail.com",
+           comment = c(ORCID = "0000-0001-8084-4446"))
+Description: The 'ingestR' package imports and organizes both 'csv' and 'xlsx' data and either creates individual objects or collects them by type into data lists. 
 License: MIT + file LICENSE
 URL: LINK TO PKGDOWN OR GITHUB REPO
 BugReports: LINK TO REPO ISSUES
